@@ -1,4 +1,4 @@
-# demofunction Mendchilgee (){// функц component. props-гүй
+function Mendchilgee (){// функц component. props-гүй
     return <h1>hello world</h1>
 }
 function Mendchilgee123 (props){// функц component. props-тай
